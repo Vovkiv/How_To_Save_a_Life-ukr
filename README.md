@@ -1,10 +1,12 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# How to Save a Life - Українською
+![обкладинка](https://github.com/Vovkiv/How_To_Save_a_Life-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/An unexpected meeting at a bar allowed Rarity and Twilight to bond over their individual failed marriages. Now the time comes to take the next terrifying step. When doubts come roaring to the surface, they call upon a mutual friend to help them find their courage./
+
+There are no instruction manuals for breakups.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/How_To_Save_a_Life-ukr/blob/main/How%20To%20Save%20a%20Life%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
