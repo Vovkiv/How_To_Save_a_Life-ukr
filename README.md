@@ -31,10 +31,7 @@ There are no instruction manuals for breakups.
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
-
-# Original cover:
-https://посилання_на_обкладинку
+https://www.fimfiction.net/story/444713/how-to-save-a-life
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
