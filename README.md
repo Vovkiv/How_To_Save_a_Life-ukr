@@ -1,9 +1,11 @@
 # How to Save a Life - Українською
 ![обкладинка](https://github.com/Vovkiv/How_To_Save_a_Life-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/An unexpected meeting at a bar allowed Rarity and Twilight to bond over their individual failed marriages. Now the time comes to take the next terrifying step. When doubts come roaring to the surface, they call upon a mutual friend to help them find their courage./
+/An unexpected meeting at a bar allowed Rarity and Twilight to bond over their individual failed marriages. Now the time comes to take the next terrifying step. When doubts come roaring to the surface, they call upon a mutual friend to help them find their courage.
 
-There are no instruction manuals for breakups.
+There are no instruction manuals for breakups./
+
+[Ця історія складається із 3 фанфіків. Це 2 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/How_To_Save_a_Life-ukr/blob/main/How%20To%20Save%20a%20Life%20-%20ukr.pdf
