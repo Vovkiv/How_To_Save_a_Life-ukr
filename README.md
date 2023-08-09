@@ -36,7 +36,7 @@
 https://www.fimfiction.net/story/444713/how-to-save-a-life
 
 # Original cover:
-Made by https://www.fimfiction.net/user/243463/KorenCZ11 and donated for author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
+Made by https://www.fimfiction.net/user/243463/KorenCZ11 and donated to author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
